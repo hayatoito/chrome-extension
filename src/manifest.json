@@ -1,0 +1,11 @@
+{
+  "name": "hayato-io",
+  "version": "0.0.50",
+  "manifest_version": 2,
+  "short_name": "hayato-io",
+  "description": "Dark Empty New Tab",
+  "icons": { "128": "hayato-io.png" },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
